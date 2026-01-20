@@ -1,0 +1,3 @@
+[submodule "mypipline"]
+	path = mypipline
+	url = https://github.com/DevSanso/mypipline
